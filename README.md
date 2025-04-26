@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8df34909-24f9-49ce-8358-bfc437e0491f)# miniRT-zkarapet
+# miniRT-zkarapet
 
 I made a guide here!! Do miniRT well and open up horizons.
 
