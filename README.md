@@ -1,5 +1,9 @@
-# miniRT-zkarapet
+![image](https://github.com/user-attachments/assets/8df34909-24f9-49ce-8358-bfc437e0491f)# miniRT-zkarapet
 
-I made a guide here, but this is not finished yet!! Do miniRT well and open up horizons.
+I made a guide here!! Do miniRT well and open up horizons.
 
 https://docs.google.com/document/d/14-eWon75qrmjPF_HO1pIy2w6xwjLi-eOZdC5_N_mcm4/edit
+
+PS: This project always can be improved.
+
+![image](https://github.com/user-attachments/assets/41635587-c5d7-49fa-9b89-54e6019547b4)
