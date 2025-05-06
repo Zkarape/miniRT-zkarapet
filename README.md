@@ -2,7 +2,7 @@
 
 I made a guide here!! Do miniRT well and open up horizons.
 
-👉 [miniRT Guide](https://docs.google.com/document/d/14-eWon75qrmjPF_HO1pIy2w6xwjLi-eOZdC5_N_mcm4/edit)
+👉 [miniRT Guide](https://docs.google.com/document/d/14-eWon75qrmjPF_HO1pIy2w6xwjLi-eOZdC5_N_mcm4/edit?tab=t.0)
 
 PS: This project always can be improved. ✨
 
